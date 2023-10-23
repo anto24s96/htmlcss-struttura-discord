@@ -103,13 +103,13 @@ ul{
 }
 
 .col-30{
-    width: 30%;
+    width: calc(100% / 6 * 2);
     height: 480px;
     background-color: rgb(255, 120, 143);
 }
 
 .col-20{
-    width: calc(70% / 5);
+    width: calc(100% / 6);
     height: 480px;
     background-color: rgb(24, 159, 159);
     border: 2px dashed white;
